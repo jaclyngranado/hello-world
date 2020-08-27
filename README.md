@@ -1,2 +1,4 @@
 # hello-world
-Just my hello world lab
+
+Hello! This is Jaclyn Granado.
+I like playing golf, watching sports, and cuddling with my dog!
